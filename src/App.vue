@@ -7,8 +7,10 @@ import TheWelcome from './components/TheWelcome.vue'
   <header>
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
     <h1 class="text-3xl font-bold underline text-blue-500">
-      Hello world!
+      嗨你好
     </h1>
+    <p class="font-[Monument-Extended]">Hello World</p>
+    <p class="font-[Montserrat]">Hello World</p>
     <div class="wrapper">
       <HelloWorld msg="You did it!" />
     </div>

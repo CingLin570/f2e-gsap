@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  /*擴充專案的全站樣式*/
+  @font-face {
+    font-family: 'Noto Sans TC';
+    src: url(../fonts/NotoSansTC-Bold.ttf) format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Sans TC';
+    src: url(../fonts/NotoSansTC-Medium.ttf) format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'Noto Sans TC';
+  src: url(../fonts/NotoSansTC-Regular.ttf) format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'Noto Sans TC';
+    src: url(../fonts/NotoSansTC-Light.ttf) format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Monument-Extended';
+    src: url(../fonts/PPMonumentExtended-Regular.otf) format('opentype');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url(../fonts/Montserrat-Regular.ttf) format('opentype');
+    font-weight: 500;
+}
+html {
+  font-family: 'Montserrat', 'Noto Sans TC';
+}
+}
+
+@layer components {
+  /*自組元件*/
+}
+
+@layer utilities {
+  /*自組樣式*/
+}
