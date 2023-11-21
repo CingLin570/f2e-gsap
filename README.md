@@ -2,7 +2,7 @@
 
 ## Week 1 ☞ The F2E 活動網站設計
 
-[image by Jenny Wu](./public/Web%20Design.png)
+![image by Jenny Wu](./public/Web%20Design.png)
 
 UIUX Design: [Jenny Wu](https://2022.thef2e.com/users/12061549261447630282/)
 
